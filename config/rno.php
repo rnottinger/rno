@@ -16,5 +16,4 @@ return [
     'horizon' => [
         'email' => env('HORIZON_EMAIL'),
     ],
-
 ];
